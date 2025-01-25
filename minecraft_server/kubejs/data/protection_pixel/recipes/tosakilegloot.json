@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "A": {
+      "item": "protection_pixel:heatresistantceramicsheet"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "protection_pixel:leggingslining"
+    },
+    "D": {
+      "item": "create:cogwheel"
+    },
+    "E": {
+      "item": "createdeco:netherite_sheet"
+    }
+  },
+  "pattern": [
+    " A A ",
+    "ABCBA",
+    "DE ED",
+    "AA AA"
+  ],
+  "result": {
+    "item": "protection_pixel:tosaki_leggings",
+    "count": 1
+  }
+}

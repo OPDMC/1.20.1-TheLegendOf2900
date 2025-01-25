@@ -1,0 +1,315 @@
+{
+  "profession": "minecraft:farmer",
+  "removeOtherTrades": true,
+  "maxTrades": 4,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:cocoa_beans",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 64,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cocoa_beans"
+    },{
+      "offer": {
+        "itemKey": "minecraft:sweet_berries",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:sweet_berries"
+    },{
+      "offer": {
+        "itemKey": "fruitsdelight:blueberry_bush",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "fruitsdelight:blueberry_bush"
+    },{
+      "offer": {
+        "itemKey": "fruitsdelight:pear_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "fruitsdelight:pear_sapling"
+    },
+    {
+      "offer": {
+        "itemKey": "fruitsdelight:hawberry_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "fruitsdelight:hawberry_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:lychee_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "fruitsdelight:lychee_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:mango_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "fruitsdelight:mango_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:persimmon_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "fruitsdelight:persimmon_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:lemon_tree",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coinstack",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "fruitsdelight:lemon_tree"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:peach_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "fruitsdelight:peach_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:orange_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "fruitsdelight:orange_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:apple_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "fruitsdelight:orange_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:mangosteen_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "fruitsdelight:mangosteen_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:pineapple_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "fruitsdelight:pineapple_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:kiwi_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "fruitsdelight:kiwi_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:fig_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "fruitsdelight:fig_sapling"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:hamimelon_seeds",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "fruitsdelight:hamimelon_seeds"
+    }, {
+      "offer": {
+        "itemKey": "fruitsdelight:durian_sapling",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:iron_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "fruitsdelight:durian_sapling"
+    }
+  ]
+}

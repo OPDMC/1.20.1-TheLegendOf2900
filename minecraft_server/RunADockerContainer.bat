@@ -26,8 +26,7 @@ set SCRIPT_DIR=%~dp0
 set SCRIPT_DIR=%SCRIPT_DIR:~0,-1%
 
 :: Run the Docker container with the appropriate restart policy
-:: §§template§§
-docker run -it --name=!CONTAINER_NAME! -p !PORT! -v "!SCRIPT_DIR!:/minecraft" --restart !RESTART_POLICY! opdmc/template-mcserver
+docker run -it --name=!CONTAINER_NAME! -p !PORT! -v "!SCRIPT_DIR!:/minecraft" --restart !RESTART_POLICY! opdmc/1.20.1-thelegendof2900
 
 :: Remove the container if the user wants to stop it on exit
 if /i "%STOP_CONTAINER%"=="n" (

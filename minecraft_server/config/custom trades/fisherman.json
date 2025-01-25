@@ -1,0 +1,88 @@
+{
+  "profession": "minecraft:fisherman",
+  "removeOtherTrades": true,
+  "maxTrades": 3,
+  "trades": [{
+      "offer": {
+        "itemKey": "supplementaries:cage",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{BlockEntityTag:{MobHolder:{EntityData:{Health:4.0f,HandItems:[{},{}],id:\"minecraft:skeleton\"},Name:\"\u5c0f\u767d\"}}}"
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:iron_ingot",
+        "amount":4
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:skeleton"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:cage",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{BlockEntityTag:{MobHolder:{EntityData:{id:\"minecraft:villager\"},Name:\"\u5c0f\u9ed1\"}}}"
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 64,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:iron_ingot",
+        "amount":4
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:villager"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:string",
+        "amount": 20,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 32,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:string"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:pink_petals",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 32,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:pink_petals"
+    }
+  ]
+}

@@ -1,6 +1,4 @@
-# §§template§§
 FROM openjdk:17-slim-bullseye
-# §§template§§
 ENV EULA=TRUE
 WORKDIR /minecraft
 COPY ./minecraft_server /docker_init

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "tag": "createbigcannons:inexpensive_big_cartridge_sheet"
+    }
+  },
+  "pattern": [
+    "SSS"
+  ],
+  "result": {
+    "item": "createbigcannons:big_cartridge_sheet"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,129 @@
+{
+  "profession": "minecraft:butcher",
+  "removeOtherTrades": true,
+  "maxTrades": 6,
+  "trades": [{
+      "offer": {
+        "itemKey": "supplementaries:cage",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{BlockEntityTag:{MobHolder:{EntityData:{Age:-24000,Health:9.0f,id:\"minecraft:cow\"},Name:\"\u725b\",Scale:0.625f}}}"
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:iron_ingot",
+        "amount":4
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cow"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:cage",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{BlockEntityTag:{MobHolder:{EntityData:{Age:-24000,Health:9f,id:\"minecraft:sheep\"},Name:\"\u7f8a\",Scale:0.625f}}}"
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 58,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:iron_ingot",
+        "amount":4
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:sheep"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:cage",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{BlockEntityTag:{MobHolder:{EntityData:{Age:-24000,Health:9f,id:\"minecraft:pig\"},Name:\"\u732a\",Scale:0.625f}}}"
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 48,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:iron_ingot",
+        "amount":4
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:pig"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:egg",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:egg"
+    },
+    {
+      "offer": {
+        "itemKey": "naturalist:duck_egg",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "naturalist:duck_egg"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:turtle_egg",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:gold_coin",
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:turtle_egg"
+    }
+  ]
+}

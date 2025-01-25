@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_bars"
+  },
+  "addition": {
+    "tag": "forge:ingots/steel"
+  },
+  "result": {
+    "item": "alloyed:steel_bars"
+  },
+  "template": {
+    "item": "minecraft:flint"
+  }
+}

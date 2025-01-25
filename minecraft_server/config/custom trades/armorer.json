@@ -1,0 +1,92 @@
+{
+  "profession": "minecraft:armorer",
+  "removeOtherTrades": true,
+  "maxTrades": 4,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_helmet",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:brass_coin",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:diamond",
+        "amount":3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:diamond_helmet"
+    },{
+      "offer": {
+        "itemKey": "minecraft:diamond_chestplate",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:brass_coin",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:diamond",
+        "amount":5
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:diamond_chestplate"
+    },{
+      "offer": {
+        "itemKey": "minecraft:diamond_leggings",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:brass_coin",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:diamond",
+        "amount":5
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:diamond_leggings"
+    },{
+      "offer": {
+        "itemKey": "minecraft:diamond_boots",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:brass_coin",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:diamond",
+        "amount":2
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:diamond_boots"
+    }
+  ]
+}

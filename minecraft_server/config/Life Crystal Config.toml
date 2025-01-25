@@ -1,0 +1,19 @@
+
+["Life Crystal"]
+	"Maximum uses per player" = 12.0
+	"Health per crystal" = 1.0
+
+[Generation]
+	"Do generation" = true
+	#Chance of a life crystal faling to generate, use to configure rarity
+	"Failure chance" = 0.25
+
+["Mini Lamp"]
+	#Every 10 ticks, the lamp will attempt the tick chance, then apply a regen effect of the level and duration specified to all players within the radius
+	"Enable regen from Mini Lamp" = true
+	"Regen diameter" = 8.0
+	#Use this to configure the rate of regen gained
+	"Procc chance per random tick" = 0.02
+	"Regen level" = 1.0
+	"Regen duration (in ticks)" = 100.0
+

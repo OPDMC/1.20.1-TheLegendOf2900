@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "multilingualItemSearch": true,
+  "fallbacks": [
+    "zh_tw",
+    "en_us"
+  ],
+  "previousFallbacks": [
+    "zh_cn",
+    "zh_tw"
+  ],
+  "language": "zh_cn",
+  "previousLanguage": "en_us"
+}

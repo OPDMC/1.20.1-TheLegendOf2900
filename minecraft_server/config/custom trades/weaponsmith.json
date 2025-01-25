@@ -1,0 +1,47 @@
+{
+  "profession": "minecraft:weaponsmith",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_sword",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:brass_coin",
+        "amount": 48,
+        "priceModifier": 0
+      },
+      "additionalRequest":{
+        "itemKey":"minecraft:diamond",
+        "amount":1
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:diamond_sword"
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:diamond_knife",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "createdeco:brass_coin",
+        "amount": 48,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:diamond_sword"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "disabled_completely": false,
+  "distance_from_spawn": 500,
+  "alexscaves_rarity_offset": 4,
+  "continentalness": [
+    -1,
+    0.5
+  ],
+  "temperature": [
+    0.0,
+    1.3
+  ],
+  "depth": [
+    -1,
+    1
+  ],
+  "dimensions": [
+    "minecraft:overworld"
+  ]
+}

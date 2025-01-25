@@ -1,0 +1,28 @@
+
+[ships_commands-config]
+	#Condition description for massless ships.
+	MASSLESS_SHIP = "massless ships"
+	#Description for ships above a specific Y level.
+	SHIPS_ABOVE_Y_LEVEL = "ships on or above Y level $1"
+	#Description for ships below a specific Y level.
+	SHIPS_BELOW_Y_LEVEL = "ships on or below Y level $1"
+	#Message when no ship world is available.
+	NO_SHIP_WORLD_MESSAGE = "No ship world available in the current dimension."
+	#Message for invalid type specified in commands.
+	INVALID_TYPE_MESSAGE = "Invalid type specified. Use one of: all, zeromass, above, below."
+	#Message for successful ship deletion.
+	SUCCESSFUL_DELETE_MESSAGE = "✔ Successfully deleted $1 $2."
+	#Message when no ships are found to delete.
+	NO_SHIPS_FOUND_MESSAGE = "⚠ No ships found."
+	#Header for the list of ships.
+	SHIP_LIST_HEADER = "✨ $1:"
+	#Description for ships in the current dimension.
+	SHIPS_IN_CURRENT_DIMENSION = "ships in the current dimension"
+	#Hover message for teleporting to ship coordinates.
+	CLICK_TELEPORT_TO_COORDS = "Click to teleport to ship coordinates"
+	#Hover message for teleporting ship to player location.
+	CLICK_TELEPORT_SHIP_TO_PLAYER = "Click to teleport ship to your location"
+	#Permission level of a player to use these commands.
+	#Range: 0 ~ 4
+	PERMISSION_LEVEL = 4
+

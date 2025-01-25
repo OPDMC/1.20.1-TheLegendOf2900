@@ -1,0 +1,18 @@
+{
+  "type": "create_fluid:freeze",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.72,
+      "item": "minecraft:obsidian"
+    },
+    {
+      "chance": 0.28,
+      "item": "minecraft:netherrack"
+    }
+  ]
+}
